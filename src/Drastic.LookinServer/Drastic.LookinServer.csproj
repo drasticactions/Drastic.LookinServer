@@ -11,12 +11,12 @@
 		<Copyright>Copyright (C) Drastic Actions</Copyright>
 		<IsBindingProject>true</IsBindingProject>
 		<IsPackable>true</IsPackable>
-		<PackageTags>ios Flipper</PackageTags>
+		<PackageTags>ios LookinServer</PackageTags>
 		<PackageProjectUrl>https://github.com/drasticactions/Drastic.LookinServer</PackageProjectUrl>
 		<PackageReleaseNotes>https://github.com/drasticactions/Drastic.LookinServer/blob/main/CHANGELOG.md</PackageReleaseNotes>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageIcon>favicon.png</PackageIcon>
-		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 		<PublishRepositoryUrl>true</PublishRepositoryUrl>
 		<EmbedUntrackedSources>true</EmbedUntrackedSources>
